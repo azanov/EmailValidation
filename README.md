@@ -4,7 +4,7 @@
 
 A simple (but correct) .NET class for validating email addresses.
 
-Supports mail addresses as defined in rfc5322 as well as the new Internationalized Mail Address standards (rfc653x).
+Supports Internationalized Mail Address standards (rfc653x).
 
 ## Installing via NuGet
 
@@ -81,7 +81,7 @@ namespace Example {
 
 ## License Information
 
-EmailValidation is Copyright (C) 2013-2016 Jeffrey Stedfast and is licensed under the MIT license:
+EmailValidation is Copyright (C) 2013-2017 Jeffrey Stedfast and is licensed under the MIT license:
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
